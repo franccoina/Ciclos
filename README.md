@@ -1,2 +1,2 @@
-# For_While
+# Ciclos
 Clase 06, Ciclos de JavaScript
