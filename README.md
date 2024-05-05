@@ -1,2 +1,2 @@
 # For_While
-Clase 01, Ciclos de JavaScript
+Clase 06, Ciclos de JavaScript
